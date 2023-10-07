@@ -7,8 +7,8 @@
   <a href="https://discordapp.com/users/kotivas">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
-  <a href="https://t.me/kotivase">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  <a href="https://steamcommunity.com/id/kotivase/">
+    <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
   </a>
 </div>
 <h1>
