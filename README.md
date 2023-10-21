@@ -17,11 +17,6 @@
 </h1>
 </div>
 
- ### :man_technologist: About Me :
-- 📖 studying
-- 💀 current level of procrastination about 151%
-- 🤓 use linux
-
 ### :hammer_and_wrench: Languages:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
